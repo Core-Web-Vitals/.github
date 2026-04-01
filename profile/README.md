@@ -74,7 +74,9 @@ Measures visual stability (unexpected layout shifts).
 **Scoring:**
 - Good: ≤ 0.1  
 - Needs Improvement: 0.1 – 0.25  
-- Poor: > 0.25  
+- Poor: > 0.25
+    
+Know More: [Solving Cumulative Layout Shift (CLS): Common Design Mistakes That Kill Rankings](https://app.box.com/notes/2173589315965?s=m1dsefq707qxuixuyigc0bm83l6m7c9b)
 
 ---
 
